@@ -2,7 +2,7 @@
 
 region                = "North Europe"
 resource_group_name   = "panorama"
-name_prefix           = "example-"
+name_prefix           = "pan-nadeau-"
 create_resource_group = true
 tags = {
   "CreatedBy"     = "Palo Alto Networks"
