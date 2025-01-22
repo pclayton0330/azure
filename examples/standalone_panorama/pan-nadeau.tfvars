@@ -55,7 +55,7 @@ panoramas = {
       #ssh_keys                       = ["~/.ssh/id_rsa.pub"]
     }
     image = {
-      version = "10.2.8"
+      version = "11.2.4"
     }
     virtual_machine = {
       size      = "Standard_D5_v2"
